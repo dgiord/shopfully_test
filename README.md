@@ -2,6 +2,7 @@
 
 Hi ShopFully Data Team! First of all, I wish to thank you for giving me te opportunity to take part in this part of the interview.\
 This assessment test was taken on a Windows machine. I used Visual Studio Code as my IDE of choice and pgAdmin to manage and query the PostgreSQL database.\
+This repo will become private after your evaluation of the test.
 
 ## Part 1 - Data modeling
 For this part of the test, I read the OpenWeather API docs and selected some of the output values based on the given requirements. Then, I created a PostgreSQL database on my localhost server called 'weatherdb', and proceeded to create the necessary tables.
